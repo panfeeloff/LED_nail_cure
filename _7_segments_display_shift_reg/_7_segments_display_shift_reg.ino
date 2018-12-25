@@ -22,7 +22,7 @@ int time = 0;
 long n = 0;
 long fantime = 0;            //used add 30 sec to fan time
 
-int D0 = 5;                //Display pins 
+int D0 = 5;                //Display pins test
 int D1 = 6;
 int D2 = 7;
 int D3 = 8;
